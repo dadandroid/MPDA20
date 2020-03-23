@@ -34,3 +34,14 @@ The excercise has two goals:
 - Please do this exercise individually! (We can always tell when that´s not the case). We will review some of the excersies in the next class
 
 - Let us know if you have any doubts!
+
+
+#### References:
+
+https://www.plethora-project.com/education
+
+https://developer.rhino3d.com/guides/rhinopython/primer-101/
+
+https://www.greenteapress.com/thinkpython/thinkpython.pdf
+
+https://docs.google.com/presentation/d/1ct0EfKzK5kY547zIGq7F3RxMaF0gCZBDQmjC1152ngQ/edit?usp=sharing
