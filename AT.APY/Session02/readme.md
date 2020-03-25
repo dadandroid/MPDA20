@@ -29,7 +29,13 @@ The excercise has two goals:
 
 - Given the vast amount of possibilities to do this exercise, there should be **no two similar starting geometries nor ways to deconstruct them**
 
-- You must submit your .gh file to [this folder](https://drive.google.com/drive/folders/1Y9mrKY5IfePMbXZwbmfIuZeWHrg3FYfY?usp=sharing) **no later Monday 4th of May** with format __MPDA20-ATAPY-EX02-Your_Name.gh__ 
+
+- You must submit:
+1. The grasshopper definition
+2. An diagram that explains your geometrical analysis
+3. An image of the final result, displaying the different clusters. 
+
+-Please submit this files  to [this folder](https://drive.google.com/drive/folders/1Y9mrKY5IfePMbXZwbmfIuZeWHrg3FYfY?usp=sharing) **no later Monday 4th of May** with format __MPDA20-ATAPY-EX02-Your_Name.gh .jpg__ 
 
 - Please do this exercise individually! (We can always tell when that´s not the case). We will review some of the excersies in the next class
 
