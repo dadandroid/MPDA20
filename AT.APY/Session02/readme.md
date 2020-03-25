@@ -50,4 +50,3 @@ https://developer.rhino3d.com/guides/rhinopython/primer-101/
 
 https://www.greenteapress.com/thinkpython/thinkpython.pdf
 
-https://docs.google.com/presentation/d/1ct0EfKzK5kY547zIGq7F3RxMaF0gCZBDQmjC1152ngQ/edit?usp=sharing
