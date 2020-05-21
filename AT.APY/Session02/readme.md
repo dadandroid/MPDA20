@@ -3,7 +3,7 @@
 
 ### K-means clustering algorithm - Part 2
 
-![Multi dimensional K-Means clustering](https://github.com/dadandroid/MPDA20/blob/master/AT.APY/Session02/assignment02/MPDA20_assignment2.jpg "multi dimensional K-Means clustering")
+![Multi dimensional K-Means clustering](https://github.com/dadandroid/MPDA20/blob/master/AT.APY/Session02/img/kmeans03.jpg "multi dimensional K-Means clustering")
 
 [MPDA20_AT-APY-02-kmeans-multid.gh](https://github.com/dadandroid/MPDA20/blob/master/AT.APY/Session02/MPDA20_AT-APY-02-kmeans-multid.gh) is the file from last class. Click on the link and press download on the corner. 
 
@@ -29,8 +29,24 @@ The excercise has two goals:
 
 - Given the vast amount of possibilities to do this exercise, there should be **no two similar starting geometries nor ways to deconstruct them**
 
-- You must submit your .gh file to [this folder](https://drive.google.com/drive/folders/1Y9mrKY5IfePMbXZwbmfIuZeWHrg3FYfY?usp=sharing) **no later Monday 4th of May** with format __MPDA20-ATAPY-EX02-Your_Name.gh__ 
+
+- You must submit:
+1. The grasshopper definition
+2. An diagram that explains your geometrical analysis
+3. An image of the final result, displaying the different clusters. 
+
+- Please submit this files  to [this folder](https://drive.google.com/drive/folders/1Y9mrKY5IfePMbXZwbmfIuZeWHrg3FYfY?usp=sharing) **no later Monday 4th of May** in a folder with your name and file format __MPDA20-ATAPY-EX02-Your_Name.gh .jpg__ 
 
 - Please do this exercise individually! (We can always tell when that´s not the case). We will review some of the excersies in the next class
 
 - Let us know if you have any doubts!
+
+
+#### References:
+
+https://www.plethora-project.com/education
+
+https://developer.rhino3d.com/guides/rhinopython/primer-101/
+
+https://www.greenteapress.com/thinkpython/thinkpython.pdf
+
